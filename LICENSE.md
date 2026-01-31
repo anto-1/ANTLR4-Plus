@@ -47,7 +47,7 @@ Unless the Developer provides written permission, you may not:
 If you purchase a Subscription:
 
 - Your license is valid for the Subscription Period specified in your Confirmation
-- Upon Subscription expiration, you retain a perpetual, non-exclusive license to use the Fallback Version
+- Upon Subscription expiration, you retain a perpetual, non-exclusive license to use the Fallback Version, provided that you have paid the applicable Subscription fees for at least the preceding 12 months in full and without interruptions.
 - The Fallback Version license does not include access to updates released after the Fallback Date (except bug-fix updates to the Fallback Version)
 
 ## 5. Intellectual Property
